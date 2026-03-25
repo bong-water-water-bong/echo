@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0d1117"/>
+  <!-- Center point -->
+  <circle cx="24" cy="32" r="3" fill="#ce93d8"/>
+  <!-- First arc -->
+  <path d="M 30 22 A 14 14 0 0 1 30 42" fill="none" stroke="#ce93d8" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Second arc -->
+  <path d="M 36 18 A 20 20 0 0 1 36 46" fill="none" stroke="#ce93d8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Third arc -->
+  <path d="M 42 14 A 26 26 0 0 1 42 50" fill="none" stroke="#ce93d8" stroke-width="2.5" stroke-linecap="round" opacity="0.4"/>
+</svg>

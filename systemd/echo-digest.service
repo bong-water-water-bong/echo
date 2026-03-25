@@ -1,0 +1,13 @@
+[Unit]
+Description=Echo social media agent - daily digest
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=<YOUR_USER>
+EnvironmentFile=/srv/ai/echo/configs/echo.env
+ExecStart=/usr/bin/python3 /srv/ai/echo/echo.py digest
+ProtectSystem=strict
+PrivateTmp=yes
+NoNewPrivileges=yes
+ReadWritePaths=/srv/ai/echo

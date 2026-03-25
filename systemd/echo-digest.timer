@@ -1,0 +1,9 @@
+[Unit]
+Description=Daily digest timer for Echo social media agent
+
+[Timer]
+OnCalendar=*-*-* 20:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

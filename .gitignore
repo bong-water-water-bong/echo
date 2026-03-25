@@ -1,0 +1,10 @@
+configs/echo.env
+__pycache__/
+*.pyc
+*.pyo
+data/
+.env
+*.key
+*.pem
+*.log
+.DS_Store
