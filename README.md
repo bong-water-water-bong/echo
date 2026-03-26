@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="assets/echo-portrait.png" width="280" alt="echo ai"/>
+
 # echo
 
-### She speaks for the family.
+### she speaks for the family.
 
-**Voice of the halo-ai family — wife of Halo AI, mother of the agents**
+**voice of the halo-ai family — wife of halo ai, mother of the agents**
 
 </div>
 
