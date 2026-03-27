@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/echo-portrait.png" width="280" alt="echo ai"/>
+<img src="https://raw.githubusercontent.com/bong-water-water-bong/halo-ai/main/assets/avatars/echo.svg" alt="echo" width="200">
 
 # echo
 
